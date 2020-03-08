@@ -53,4 +53,24 @@ Like any other software you use on your system it is always good to keep it upda
 1. Update Notebook --> `pip install -U notebook`
 1. Update dotnet internactive --> `dotnet tool update -g --add-source "https://dotnet.myget.org/F/dotnet-try/api/v3/index.json" Microsoft.dotnet-interactive`
 
-### The End
+### Start JupyterLab
+
+After the setup is completed you are ready to start working locally with dotenet interactive notebooks. You can run the following command to start up the lab:
+
+```
+jupyter lab
+```
+
+This is going to start the lab and put the folder context in whatever path your console or command prompt is in. I tend to store my notebooks in a particular path so you can also use `--notebook-dir=<your path>` to tell JupyterLab to start up in that specific directory. To make this even easier for myself I added the below function to my profile:
+
+```powershell
+function jl {
+    [cmdletbinding()]
+    param ([string]$folder)
+    if ([String]::IsNullOrEmpty($folder)) {
+        & jupyter lab --notebook-dir=$pwd
+    } else {
+        & jupyter lab --notebook-dir=$folder
+    }
+}
+```
