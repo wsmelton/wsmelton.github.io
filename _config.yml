@@ -15,7 +15,7 @@ minima:
   # generate social links in footer
   social_links:
     twitter: wsmelton
-    github:  wsmelton
+    github: wsmelton
     # devto: jekyll
     # dribbble: jekyll
     # facebook: jekyll
@@ -30,14 +30,12 @@ minima:
     # googleplus: +jekyll
     # microdotblog: jekyll
     # keybase: jekyll
-
     # Mastodon instances
     # mastodon:
     # - username: jekyll
     #   instance: example.com
     # - username: jekyll2
     #   instance: example.com
-
     # GitLab instances
     # gitlab:
     # - username: jekyll
@@ -54,5 +52,5 @@ minima:
 theme: minima
 
 plugins:
- - jekyll-feed
- - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-seo-tag
