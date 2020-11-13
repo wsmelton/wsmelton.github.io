@@ -42,7 +42,8 @@ minima:
     #   instance: example.com
     # - username: jekyll2
     #   instance: example.com
-
+    
+google_analytics: zsm08xyX2I6e3SaokJkngOT8nujWQ_0zX26UjRM3VvE
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
 #header_pages:
