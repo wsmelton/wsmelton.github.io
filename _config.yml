@@ -43,6 +43,8 @@ minima:
     # - username: jekyll2
     #   instance: example.com
 
+google_analytics: UA-85098649-1
+
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
 #header_pages:
