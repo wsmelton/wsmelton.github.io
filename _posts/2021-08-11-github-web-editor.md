@@ -41,3 +41,5 @@ Maintainers and contributors can use the web editor for doing Pull Request Revie
 ![image](https://user-images.githubusercontent.com/11204251/129116585-d6ff1200-1cc3-48ba-af72-d5e36ebd6556.png)
 
 Any form of contribution is greatly appreciated, and the new web editor experience helps provide users with a more robust experience. Try it out!
+
+You can also access any repository now with the web editor by using `github.dev` instead of `github.com` for the URL. As an example [github.dev/sqlcollaborative/dbatools](github.dev/sqlcollaborative/dbatools) will open the web editory directly.
