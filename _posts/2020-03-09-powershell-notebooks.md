@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PowerShell Notebooks with dotnet interactive
-categories: notebook
 ---
 
 In February the preview of [dotnet interactive](https://devblogs.microsoft.com/dotnet/net-interactive-is-here-net-notebooks-preview-2/) was announced. Along with that the PowerShell team worked with them on the Net-PowerShell kernel as well. This is all packaged together. In this post I'm just going to provide the quick steps that can be used to get everything installed, and also to update it to make sure you have the latest bits and features.
@@ -57,7 +56,7 @@ Like any other software you use on your system it is always good to keep it upda
 
 After the setup is completed you are ready to start working locally with dotenet interactive notebooks. You can run the following command to start up the lab:
 
-```
+```console
 jupyter lab
 ```
 

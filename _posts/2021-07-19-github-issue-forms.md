@@ -1,7 +1,6 @@
 ---
 layout: post
 title: GitHub Issue Forms Beta
-categories: github
 ---
 
 ## Forms are Finally Here!!!

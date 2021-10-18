@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Creating an Azure App Registration with AzureAd
-categories: azure
 ---
 
 Allowing applications access to your Azure tenant is generally done by creating an [Azure App Registrations](https://docs.microsoft.com/en-us/powerapps/developer/common-data-service/walkthrough-register-app-azure-active-directory).

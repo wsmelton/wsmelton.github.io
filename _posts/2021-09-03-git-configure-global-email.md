@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Git - Configure Global Email
-categories: github
 ---
 
 If you work with GitHub or other hosted version control systems they all work with Git. One of the things Git does when you first try and push (or write) to a hosted Git repository is prompt you to login. GitHub when you do this by default will link all of your commits made to the default email address you have configured on your profile.

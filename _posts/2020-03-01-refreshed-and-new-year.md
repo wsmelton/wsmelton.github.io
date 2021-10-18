@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Refreshed and a New Year"
-categories: misc
 ---
 
 You may have noticed there is no content on this blog site now. :grin:

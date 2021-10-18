@@ -1,7 +1,6 @@
 ---
 layout: post
 title: GitHub Web Editor
-categories: github
 ---
 
 ## GitHub Web Editor is here!

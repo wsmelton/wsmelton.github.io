@@ -1,7 +1,6 @@
 ---
 layout: post
 title: VS Code New Window Size
-categories: vscode
 ---
 
 If you use [VS Code](https://code.visualstudio.com/), you may have found that when you have a current workspace open and want to open a new one, it may be sized extremely small. Mine would always open to around 300x500 and be positioned in the center of the screen.
