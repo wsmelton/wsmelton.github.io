@@ -1,17 +1,17 @@
 ---
 layout: post
 title: PowerShell Notebooks with dotnet interactive
-categories: notebook,powershell
+categories: notebook
 ---
 
 In February the preview of [dotnet interactive](https://devblogs.microsoft.com/dotnet/net-interactive-is-here-net-notebooks-preview-2/) was announced. Along with that the PowerShell team worked with them on the Net-PowerShell kernel as well. This is all packaged together. In this post I'm just going to provide the quick steps that can be used to get everything installed, and also to update it to make sure you have the latest bits and features.
 
-### Requirements
+## Requirements
 
 1. [Python](https://www.python.org/downloads) (_I'm using Python 3.8.2 release._)
 1. [.NET 3.1 SDK](https://dotnet.microsoft.com/download) (_if you have Visual Studio installed you likely already have this_)
 
-#### Python Installation Notes
+### Python Installation Notes
 
 - When you run the installer for Python, make sure you check the box for adding/updating your system `PATH`. This will help where you can simply call `python` from any command prompt on your system.
 - Also ensure you include `pip` in the installation. The download above for Python will include that for you, `pip` is the package manager for Python and is needed to get dotnet-interactive installed.
