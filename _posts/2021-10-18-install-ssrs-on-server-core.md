@@ -4,11 +4,11 @@ title: Installing SSRS on Server Core
 categories: sql, lab
 ---
 
-# Lab Case
+## Lab Case
 
 I need to install SQL Server Reporting Services (SSRS) on Window Server 2019 Core (non-gui).
 
-## Steps
+### Steps
 
 1. Download installer:
 
