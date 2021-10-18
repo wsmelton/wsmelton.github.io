@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Installing SSRS on Server Core
-categories: sql, lab
+categories: sql,lab
 ---
 
 ## Lab Case
