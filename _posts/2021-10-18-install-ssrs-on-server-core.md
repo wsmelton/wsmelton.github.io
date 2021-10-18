@@ -23,3 +23,5 @@ I need to install SQL Server Reporting Services (SSRS) on Window Server 2019 Cor
     ```
 
 1. Complete the configuration options desired.
+
+You will access the web UI via `http://<server>/Reports`
