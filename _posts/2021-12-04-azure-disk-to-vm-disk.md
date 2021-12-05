@@ -5,7 +5,7 @@ title: Map Azure Data Disk to VM Disk and Volume
 
 ## Lab Case
 
-I need to expand an Azure Storage Account disk that is attached to a particular drive letter in the Azure VM (Windows Server).
+I need to expand an Azure Storage Account disk that is attached to a particular drive letter in the Azure VM (Windows Server). Before that can be done I need to know what disk the drive letter maps to in Azure.
 
 ### Solution
 
