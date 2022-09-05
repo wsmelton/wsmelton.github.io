@@ -49,7 +49,7 @@ Others to be aware of starting out:
 
 - <kbd>ESCAPE</kbd> -- Escape key is used to go back to the previous screen
 
-- <kbd>CTRL</kbd>+`c` -- Used to quit the application.
+- <kbd>:</kbd>+`q` -- Used to quit the application.
 
 - <kbd>:</kbd> -- (colon) will bring a command prompt up where you can type an alias to move around to different areas of the cluster. You can start typing a few characters and intellisense/tab completion will be available.
 
