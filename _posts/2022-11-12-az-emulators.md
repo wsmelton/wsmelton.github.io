@@ -5,7 +5,7 @@ title: Azure Cloud Service Emulators
 
 <a href="https://www.flaticon.com/free-icons/travel" title="travel icons"><img src="https://user-images.githubusercontent.com/11204251/201482432-a757fffb-c2e0-4b36-9fd1-5db1902ea67a.png" alt="Travel icons created by Icongeek26 - Flaticon" width="150"></a>
 
-Air plane mode, a required setting if you travel now. Depending no where you are going whether it is for work, school, vacation, or because I want to you may have a lot of time on your flight. Are you looking to learn more about Azure's cloud services? Want to change careers to be a developer? Did you Azure offers the ability for you to develop against some of their services in 100% offline mode? You don't even need an Internet connection.
+Air plane mode, a required setting if you travel in an airplane. Depending on where you are going whether it is for work, school, vacation, or because I want to you may have a lot of time on your flight. Are you looking to learn more about Azure's cloud services? Want to change careers to be a developer? Did you Azure offers the ability for you to develop against some of their services in 100% offline mode? You don't even need an Internet connection.
 
 If you have already started your journey developing against Azure you may already be aware of the amazing list of [Azure Developer tools](https://azure.microsoft.com/en-us/downloads/).
 
