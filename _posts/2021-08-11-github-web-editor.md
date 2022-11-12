@@ -3,7 +3,7 @@ layout: post
 title: GitHub Web Editor
 ---
 
-## GitHub Web Editor is here!
+## GitHub Web Editor is here
 
 I am actually writing this blog post using GitHub's new Web Editor experience. In this post, I'll go over what it is and how you use it.
 
@@ -41,4 +41,4 @@ Maintainers and contributors can use the web editor for doing Pull Request Revie
 
 Any form of contribution is greatly appreciated, and the new web editor experience helps provide users with a more robust experience. Try it out!
 
-You can also access any repository now with the web editor by using `github.dev` instead of `github.com` for the URL. As an example [github.dev/sqlcollaborative/dbatools](github.dev/sqlcollaborative/dbatools) will open the web editory directly.
+You can also access any repository now with the web editor by using `github.dev` instead of `github.com` for the URL. As an example [github.dev/sqlcollaborative/dbatools](github.dev/sqlcollaborative/dbatools) will open the web editor directly.

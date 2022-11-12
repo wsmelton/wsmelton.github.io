@@ -15,7 +15,7 @@ You can configure multiple but a default, primary will be configured as the firs
 
 ## Secure Your Email Address
 
-If you are not aware, a common practice these days is companies are trolling contributors and maintainers of open-source projects. I have personally had it happen a few times, and had one company tell me they got my eamil from the commit history of dbatools.
+If you are not aware, a common practice these days is companies are trolling contributors and maintainers of open-source projects. I have personally had it happen a few times, and had one company tell me they got my email from the commit history of dbatools.
 
 A method that can help you keep this from happening is enabling the two settings below under the Emails section of your profile on GitHub:
 

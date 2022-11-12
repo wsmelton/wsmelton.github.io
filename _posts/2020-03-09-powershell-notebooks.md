@@ -17,7 +17,7 @@ In February the preview of [dotnet interactive](https://devblogs.microsoft.com/d
 
 Once the installation is completed you can confirm everything is in working order by running the two commands below in a PowerShell console:
 
-```
+```console
 dotnet --version
 python --version
 pip --version

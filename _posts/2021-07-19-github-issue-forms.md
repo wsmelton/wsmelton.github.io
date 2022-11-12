@@ -3,7 +3,7 @@ layout: post
 title: GitHub Issue Forms Beta
 ---
 
-## Forms are Finally Here!!!
+## Forms are Finally Here
 
 June 23, GitHub announced [Issue Forms beta for public repositories](https://github.blog/changelog/2021-06-23-issues-forms-beta-for-public-repositories/). If you are a maintainer of an open-source project on GitHub, issues are the lifeblood of your project for your userbase to interact and report bugs and features. [Discussions](https://docs.github.com/en/discussions) is also an option but most generally stick with using GitHub Issues.
 
